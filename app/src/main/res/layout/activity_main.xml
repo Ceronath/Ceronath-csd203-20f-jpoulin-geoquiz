@@ -33,4 +33,10 @@
         android:text="@string/nextButton"
         android:drawableEnd="@drawable/arrow_right"
         android:drawableRight="@drawable/arrow_right" />
+    <Button
+        android:id="@+id/cheatButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cheat_button"
+        />
 </LinearLayout>
